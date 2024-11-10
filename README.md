@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/1d/30/b5/1d30b5a0c298c02edaf2f501b22a6587.gif" alt="Alt Text" style="width:100%; height:128px; overflow: hidden; object-fit: cover;">
+<img src="banner.gif" alt="Alt Text" style="width:100%; max-height:128px; overflow: hidden; object-fit: cover;">
 
 ## 💫 About Me
 
