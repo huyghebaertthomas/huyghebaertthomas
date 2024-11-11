@@ -55,5 +55,5 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23222222.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-huyghebaert-b84000264/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23222222.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-huyghebaert/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23222222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huyghebaertthomas)
