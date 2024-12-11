@@ -9,13 +9,13 @@
 
 ## 💻 Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=py,cs,cpp,bash,latex,html,css,js)
-![Frameworks](https://skillicons.dev/icons?i=dotnet,fastapi,flask,tensorflow,pytorch,sklearn,opencv,postman,nginx)
-![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)
-![IoT](https://skillicons.dev/icons?i=linux,raspberrypi,arduino)
-![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,notion)
-![Cloud](https://skillicons.dev/icons?i=azure,aws,docker,kubernetes)
-![Design](https://skillicons.dev/icons?i=ps,xd)
+![Languages](https://skillicons.dev/icons?i=py,cs,cpp,bash,latex,html,css,js) <br>
+![Frameworks](https://skillicons.dev/icons?i=dotnet,fastapi,flask,tensorflow,pytorch,sklearn,opencv,postman,nginx) <br>
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase) <br>
+![IoT](https://skillicons.dev/icons?i=linux,raspberrypi,arduino) <br>
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,notion) <br>
+![Cloud](https://skillicons.dev/icons?i=azure,aws,docker,kubernetes) <br>
+![Design](https://skillicons.dev/icons?i=ps,xd) <br>
 
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-%23222222?style=for-the-badge&logo=InfluxDB&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%23222222.svg?style=for-the-badge&logo=jira&logoColor=white)
